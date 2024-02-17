@@ -92,7 +92,7 @@ Use these instructions to launch the programs in this folder:
 
 ## Results
 
-![result1]()q
+![result1]()
 
 ![result2]()
 
