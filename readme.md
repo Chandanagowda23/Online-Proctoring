@@ -97,5 +97,3 @@ Use these instructions to launch the programs in this folder:
 ![result2](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Fraud.gif)
 
 ![result3](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/NoSudent.gif)
-
-![result4](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Warning.gif)
