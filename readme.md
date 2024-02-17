@@ -88,14 +88,14 @@ Use these instructions to launch the programs in this folder:
 
 ## Calibration
 
-![result1]()
+![result1](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Calibration.gif)
 
 ## Results
 
-![result1]()
+![result1](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Don't%20Speak.gif)
 
-![result2]()
+![result2](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Fraud.gif)
 
-![result3]()
+![result3](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/NoSudent.gif)
 
-![result4]()
+![result4](https://github.com/Chandanagowda23/Online-Proctoring/blob/main/FaceEncode/Result/Warning.gif)
